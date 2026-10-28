@@ -1,0 +1,4 @@
+$ python predictor.py --tenure-months 36 --monthly-charges 45 --support-tickets 0 --usage-hours 42
+Training accuracy: 100.0%
+Churn probability: 0.0%
+Customer likely to remain
